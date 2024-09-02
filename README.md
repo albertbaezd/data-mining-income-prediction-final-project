@@ -13,6 +13,8 @@ Final project for Fordham University's Data Mining Course, Group #5
 
 May 6th, 2024
 
+Reviewed by Dr. Yiyun Zhao
+
 ## 1) Introduction
 
 In an effort to better understand economic disparities and target
