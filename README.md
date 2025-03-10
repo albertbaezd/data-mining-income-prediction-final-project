@@ -13,7 +13,7 @@ Final project for Fordham University's Data Mining Course, Group #5
 
 May 6th, 2024
 
-Reviewed by Dr. Yiyun Zhao
+Reviewed by Dr. Yijun Zhao
 
 ## 1) Introduction
 
